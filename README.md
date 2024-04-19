@@ -11,6 +11,8 @@ dependencies op (just to annoy readers)
 
 
  pip install pyinstaller
+
+ 
 Collecting pyinstaller
   Downloading pyinstaller-6.6.0-py3-none-win_amd64.whl.metadata (8.3 kB)
 Collecting setuptools>=42.0.0 (from pyinstaller)
